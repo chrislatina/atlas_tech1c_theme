@@ -13,6 +13,10 @@
 
 head title { display: none; }
 
+.curriculum-javascript{
+  display:none;
+}
+
 /*cover*/
 figure[data-type="cover"] {
   page: cover;
